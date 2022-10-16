@@ -1,4 +1,4 @@
-# Sistema de Login e Senha via Portugol:computer:
+# Login and Password System | Portugol:computer:
 
   Foi utilizado a IDE Portugol Webstudio junto aos entendimentos dos conteúdos sobre linguagem de programação e algoritmos.
 
@@ -8,11 +8,17 @@
 
 ## Instruções:
 
-  Ao acessar o programa, o mesmo ira pedir  *"Login"* e *"Senha"*, os quais foram pré-definidos como *"adm"* e *"adm"* respectivamente.  Os mesmos podem ser alterados nas sessões *"se"*, após *"=="*.
+  Ao acessar o programa, o mesmo ira pedir  *"Login"* e *"Password"*, os quais foram pré-definidos como *"adm"* e *"adm"* respectivamente.  Os mesmos podem ser alterados nas sessão *"se"*, após *"=="*.
 
-## Finalização: 
+## Conclusão: 
 
-  Após realizar todos os testes, garanti 100% do funcionamento programa.
+  O programa tem a finalidade ne demonstrar o aprendizado em programação via Portugol Webstudio.
+
+#### Nota de atualização:
+
+- *1.1:* Corrigido erro caso o usuário inserisse *"Login"* correto e *"Password"* incorreto onde a mensagem *"Incorrect Login or Password"* não respondia no terminal. 
+
+  *Créditos: Dev Felipe Basseti que indicou e solucionou o erro.*
 
 
 
